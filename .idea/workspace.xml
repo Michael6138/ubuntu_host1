@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f241c118-e5a3-4db5-b48a-33d068dec943" name="Default Changelist" comment="" />
+    <list default="true" id="f241c118-e5a3-4db5-b48a-33d068dec943" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Ubuntu-Host1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/UbuntuHost1App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/UbuntuHost1App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/business/controller/UbuntuHost1Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/business/controller/UbuntuHost1Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="24Vm88GCwuICUXlUdJYvhGRQu45" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -63,21 +78,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1643724332240">
+    <state x="184" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643727266011">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1643724332240" />
-    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1643724332239">
+    <state x="184" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.838@0.23.1440.838" timestamp="1643727266011" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1643727380525">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1643724332239" />
-    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1643724332238">
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1643727380525" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1643727380524">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1643724332238" />
-    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1643724332239">
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1643727380524" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1643727380523">
       <screen x="0" y="23" width="1440" height="838" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1643724332239" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1643727380523" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1643727380524">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1643727380524" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1643727194314">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1643727194314" />
   </component>
 </project>
